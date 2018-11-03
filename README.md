@@ -21,3 +21,5 @@ pip3 install pytz
 pip3 install humanfriendly
 
 pip3 install googletrans
+
+git clone
