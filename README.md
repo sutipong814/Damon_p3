@@ -21,9 +21,3 @@ pip3 install pytz
 pip3 install humanfriendly
 
 pip3 install googletrans
-
-git clone https://github.com/NIGHTBATv1/55555
-
-cd 55555
-
-python3 pb.py
